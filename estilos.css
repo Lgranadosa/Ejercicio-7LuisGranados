@@ -1,0 +1,56 @@
+
+
+.container  {
+    width: 80%;
+    max-width: 950px;
+}
+
+header{
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: #45aaf2;
+    font-weight: bold;
+}
+
+.line {
+    display: inline;
+    font-size: 15px;
+    padding: 5px;
+    padding-left: 0px;
+    margin-bottom: 30px;
+
+}
+
+a:hover     {
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+h2{
+    font-family: Verdana;
+    color: red;
+    margin-top: 15px;
+    
+}
+
+.border {
+    border: 2px solid red;
+    background-color: grey;
+}
+
+.white  {
+    color: white;
+    padding-left: 0px;
+}
+
+.space  {
+    margin: 20 0 20 0;
+}
